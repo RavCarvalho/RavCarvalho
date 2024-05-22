@@ -4,19 +4,19 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravcarvalho&theme=radical" alt="ravcarvalho" width="401" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ravcarvalho&show_icons=true&locale=en&theme=radical" alt="ravcarvalho" width="380" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravcarvalho&theme=moltack" alt="ravcarvalho" width="401" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ravcarvalho&show_icons=true&locale=en&theme=moltack" alt="ravcarvalho" width="380" />
 </div>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravcarvalho&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="ravcarvalho" width="300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravcarvalho&show_icons=true&locale=en&layout=compact&theme=moltack" style="position: relative;left: 100px;" alt="ravcarvalho" width="300">
 </p>
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left"> 
      <a href="hhttps://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="40" height="45"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed73fa95ab181827fb5834128eeecc01a8331a06d1d57b7168f64122827cdd27/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f2e105fabd4ca11dcc8f899c70c8877f7e6b4bc44e5c9068a41596af2315d591/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="45" height="45"/></a>
+    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" width="45" height="45"/></a>
 </p>
 
 <h3 align="left">| 📱 | Connect with me:</h3>
@@ -29,5 +29,5 @@
 <br>
 
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="785" height="400">
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="785" height="400">
 </p>
